@@ -1,3 +1,5 @@
+![logo](https://github.com/Amna-Gulzar/Amna-Gulzar/blob/main/Amna%20Gulzar.gif)
+
 <h1 align="center">Hi 👋, I'm Amna Gulzar</h1>
 <h3 align="center">A passionate Software Automation Engineer from Pakistan</h3>
 
