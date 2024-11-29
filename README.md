@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amna Gulzar</h1>
 <h3 align="center">A passionate Software Automation Engineer from Pakistan</h3>
 
+<img align="right" alt="testing" width="400" src="https://user-images.githubusercontent.com/2447396/54931168-300a3080-4f21-11e9-9aea-412c2fe32b61.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amna-gulzar&label=Profile%20views&color=0e75b6&style=flat" alt="amna-gulzar" /> </p>
 
 - 🔭 I’m currently working on [Trading Platform](https://app.myfreedom.ae/)
