@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amna Gulzar</h1>
 <h3 align="center">A passionate Software Automation Engineer from Pakistan</h3>
 
-<img align="right" alt="testing" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcypress-io%2Fcypress%2Fissues%2F3817&psig=AOvVaw3m8_B6rUHjbantPVdkN8to&ust=1732950555076000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCTq4T-gIoDFQAAAAAdAAAAABAQ">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amna-gulzar&label=Profile%20views&color=0e75b6&style=flat" alt="amna-gulzar" /> </p>
 
-- 🔭 I’m currently working on [Trading Platform](www.myfreedom.ae)
+- 🔭 I’m currently working on [Trading Platform](https://app.myfreedom.ae/)
 
 - 👯 I’m looking to collaborate on **Software Applications & Websites**
 
@@ -24,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amna-gulzar&show_icons=true&locale=en" alt="amna-gulzar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amna-gulzar&" alt="amna-gulzar" /></p>
+
